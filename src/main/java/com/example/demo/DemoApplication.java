@@ -13,3 +13,7 @@ public class DemoApplication {
 }
 
 //mvn spring-boot:run
+//create database demo;
+//use demo;
+//create table login(username varchar(50)  , password varchar(50));
+//select * from login;
